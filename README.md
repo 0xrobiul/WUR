@@ -2,7 +2,7 @@
     WUR
   <br>
 </h1>
-<h4 align="center">Web Update Responder!!</h4>
+<h4 align="center">The Website Update Responder!!</h4>
     <p align="center">
   <a href="https://github.com/0xrobiul/WUR">
     <img src="https://img.shields.io/static/v1?label=Project&message=WUR&color=green">
